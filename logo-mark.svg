@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Biểu trưng demo Bách Khoa LTD</title>
+  <rect width="64" height="64" rx="14" fill="#082B59"/>
+  <path d="M15 39 30 12h11l-8 15h16L32 52H21l9-13Z" fill="#F59E0B"/>
+  <path d="M12 46h40" stroke="#EDF5FC" stroke-width="3" stroke-linecap="round" opacity=".55"/>
+</svg>
