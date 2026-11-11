@@ -1,0 +1,18 @@
+BACH KHOA LTD - HUONG DAN UPLOAD GITHUB PAGES
+
+1. GIAI NEN file ZIP nay tren may tinh.
+2. Mo thu muc vua giai nen. Kiem tra index.html nam ngay cap dau tien,
+   cung cap voi README.md va thu muc assets.
+3. Tren GitHub, upload TOAN BO NOI DUNG BEN TRONG thu muc da giai nen.
+   KHONG upload nguyen file ZIP. GitHub khong tu giai nen ZIP.
+4. Sau khi upload, root repository phai co:
+   index.html
+   assets/
+   gioi-thieu.html
+   du-an.html
+   ...
+5. Vao Settings > Pages > Deploy from a branch > main > /(root) > Save.
+6. Doi vai phut, sau do mo URL GitHub Pages.
+
+Neu repository chi co mot file .zip, hoac index.html nam trong thu muc con,
+GitHub Pages se khong tim thay trang chu.
